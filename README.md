@@ -16,7 +16,6 @@ Extensions for [pi](https://github.com/badlogic/pi-mono), an AI coding agent CLI
 - **[Pi PowerShell](https://github.com/marcfargas/pi-powershell)** — Windows system integration and background processes (solves the Git Bash `&` hang)
 - **[Pi Heartbeat](https://github.com/marcfargas/pi-heartbeat)** — Non-blocking timers and heartbeats — stop using `sleep`
 - **[Pi TRAMP](https://github.com/marcfargas/pi-tramp)** — Transparent remote execution via SSH/Docker — pi stays local, tools run remotely
-- **[Pi Subagents](https://github.com/marcfargas/pi-subagents)** — Task delegation with chains, parallel execution, and async support
 - **[Pi Planner](https://github.com/marcfargas/pi-mf-extensions)** — Plan-then-execute workflow with safety classifications
 - **[Pi Server](https://github.com/marcfargas/pi-server)** — Detachable agent sessions — headless daemon + terminal client over WebSocket
 - **[Pi Devcontainers](https://github.com/marcfargas/pi-devcontainers)** — Launch dev containers with pi pre-installed
