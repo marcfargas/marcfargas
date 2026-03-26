@@ -6,8 +6,9 @@ I manage a group of companies in Barcelona — legal, accounting, property manag
 
 #### Odoo + AI
 
-- **[Odoo CLI](https://github.com/marcfargas/odoo-toolbox/tree/master/packages/odoo-cli)** — Command-line interface for Odoo ERP. Records, mail, modules, schema, accounting — from the terminal. `npm install -g @marcfargas/odoo-cli`
-- **[Odoo Toolbox](https://github.com/marcfargas/odoo-toolbox)** — Progressive skill modules that teach AI agents the Odoo API. CI-tested against real v17 and v18 instances. Includes TypeScript RPC client and schema introspection.
+- **[godoo](https://github.com/marcfargas/godoo)** — Async Python SDK for Odoo JSON-RPC. Typed, tested against real v17/v18/v19. 8 domain services, testcontainers integration. `uv add godoo` · [docs](https://www.marcfargas.com/~godoo/)
+- **[Odoo Toolbox](https://github.com/marcfargas/odoo-toolbox)** — TypeScript SDK, CLI, skill modules, and MCP server for AI agents working with Odoo. CI-tested against v17 and v18. · [docs](https://www.marcfargas.com/~odoo-toolbox/)
+- **[Odoo CLI](https://github.com/marcfargas/odoo-toolbox/tree/main/packages/odoo-cli)** — Command-line interface for Odoo ERP. Records, mail, modules, schema, accounting — from the terminal. `npm install -g @marcfargas/odoo-cli`
 
 #### Pi Agent Extensions
 
